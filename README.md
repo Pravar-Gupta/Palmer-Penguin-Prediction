@@ -85,8 +85,3 @@ The model is trained on the **Palmer Penguins dataset**, a popular real-world da
 
 ---
 
-If you want, I can also help you add:
-- installation instructions  
-- how to run locally  
-- or a screenshot/demo section so it looks even more polished on GitHub 🚀
-
