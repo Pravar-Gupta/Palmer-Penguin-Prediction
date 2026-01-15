@@ -1,2 +1,3 @@
 # Palmer Penguin Prediction
-A Penguin Prediction Model
+
+The link to the site: https://palmer-penguin-prediction-5b4yyjafifgg8ts78in7qn.streamlit.app/
